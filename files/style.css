@@ -1,3 +1,4 @@
 body{
   background-color = rgb(8,0,59);
+  z-index: 1;
 }
